@@ -1,6 +1,11 @@
 # todoList
-using Realm
+using 
+
+Realm
+
 Chameleon
+
+Swipe cell
 
 <img width="292" alt="Снимок экрана 2021-08-03 в 23 40 44" src="https://user-images.githubusercontent.com/83182177/128083242-fa8bd62f-10fe-4bbd-827e-cd2484dec9fe.png">
 
